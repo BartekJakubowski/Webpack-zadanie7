@@ -1,0 +1,33 @@
+body {
+    margin: 0 auto;
+    padding: 0px;
+    width: 980px;
+}
+
+#App {
+    background-color: #10A296;
+    width: 980px;
+    margin: 0 auto;
+}
+
+
+.TodoApp {
+    background-color: #F5F5F5;
+    color: #222;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 980px;
+    height: 100vh;
+}
+
+.formbutton {
+    margin-left: 10px;
+}
+
+.form {
+    margin-bottom: 20px;
+}

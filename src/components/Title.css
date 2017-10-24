@@ -1,0 +1,11 @@
+.TitleStyles {
+	background: rgba(231, 96, 96, 0.568);
+	padding-bottom: 20px;
+	font-family: 'Relaway', Arial, Helvetica, sans-serif;
+	font-size: 1,4em;
+	color: rgb(0, 0, 0);
+	text-align: center;
+	width: 980px;
+	height: 100px;
+	margin: 0 auto;
+}

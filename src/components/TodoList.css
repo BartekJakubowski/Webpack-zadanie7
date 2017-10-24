@@ -1,0 +1,22 @@
+.ListStyles {
+	list-style-type: none;
+	margin: 20px 0 0 0;
+	width: 300px;
+}
+
+li {
+	list-style-type: none;
+	font-size: 14px;
+}
+
+button {
+	background-color: rgb(226, 0, 0); /* Green */
+	border: none;
+	color: white;
+	margin-left: 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	float: right;
+}
